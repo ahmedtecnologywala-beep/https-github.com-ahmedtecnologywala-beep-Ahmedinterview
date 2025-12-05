@@ -1,0 +1,8 @@
+{
+  "name": "Ahmed Interview",
+  "description": "Professional AI-powered interview platform with live streaming capabilities, screen sharing, and recording.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
